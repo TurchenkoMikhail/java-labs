@@ -1,0 +1,4 @@
+INPUT_FILE = input.bin //входной файл должен существовать
+MASK = 1011110010011001//двоичная система счисления
+OUTPUT_FILE 	=	 output.bin
+BUFFER_SIZE = 	 50/размер в байтах

@@ -1,2 +1,2 @@
 # java-labs
-Java lab in university
+Java labs in university
