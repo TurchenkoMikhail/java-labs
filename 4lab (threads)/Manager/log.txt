@@ -1,0 +1,2 @@
+янв 21, 2022 9:14:15 PM Manager run
+INFO: All is corrected!

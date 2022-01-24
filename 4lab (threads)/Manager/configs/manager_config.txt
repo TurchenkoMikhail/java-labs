@@ -1,0 +1,12 @@
+//Поддерживаются комментарии и пробельные символы. Комментарии должны начинаться со знака "//"
+//В строке комментарием считается то, что лежит после этого знака.
+//При синтаксическом анализе подстрока с комментариями и пробельные символы удаляются.
+//Разделение executor'ов происходит через запятые
+INPUT_FILE = files/input.bin //файл должен существовать!
+OUTPUT_FILE = files/output.bin
+READER_NAME = Reader
+WRITER_NAME = Writer
+EXECUTOR_NAME = Executor //Будут расставлены на конвейере в порядке, перечисленном в этой строке
+READER_CONFIG = configs/my_configs/my_reader_config.txt
+WRITER_CONFIG = configs/my_configs/my_writer_config.txt
+EXECUTOR_CONFIG = configs/my_configs/my_executor_config.txt, //Будут расставлены в порядке расставления экзекьюторов на конвейере
